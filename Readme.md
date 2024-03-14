@@ -21,3 +21,11 @@ ___
 ![](./tdz%203.png)
 ___
 
+# 2 Type of Error
+
+ 1   Refference error: Cannot access "string" before initialization
+___
+
+2   Refference error: x Is not defined
+
+
